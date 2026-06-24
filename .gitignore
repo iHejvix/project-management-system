@@ -1,0 +1,14 @@
+git push -u origin main# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+Thumbs.db
+db.json
+Desktop.ini
+.DS_Store
